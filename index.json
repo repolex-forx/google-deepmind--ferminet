@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "ferminet",
+  "versions": [
+    {
+      "commit": "e9d5a604d15c617864e7caefd948d87453b01ae6",
+      "tag": "",
+      "parsed_at": "2026-11-06T09:02:53.161908+00:00"
+    }
+  ]
+}
