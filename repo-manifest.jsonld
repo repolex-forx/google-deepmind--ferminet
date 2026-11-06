@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/ferminet/commit/e9d5a604d15c617864e7caefd948d87453b01ae6",
       "git:hexsha": "e9d5a604d15c617864e7caefd948d87453b01ae6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T09:02:53.161490+00:00"
     }
   ]
 }
